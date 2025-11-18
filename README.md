@@ -6,4 +6,4 @@
 
 ## API Spec
 
-API Spec is available in `BookCabin.postman_collection.json` file. Open it in Postman.
+API Spec is available in `Voucher.postman_collection.json` file. Open it in Postman.
